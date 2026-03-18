@@ -1,1 +1,1 @@
-# Advanced-Styling-with-Responsive-Design-week2
+# week2-rd-responsive-hw-starter
